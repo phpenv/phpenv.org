@@ -1,0 +1,8 @@
+title: phpenv.org
+description: Coming soon to a browser near you....
+google_analytics: UA-40472599-1
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
